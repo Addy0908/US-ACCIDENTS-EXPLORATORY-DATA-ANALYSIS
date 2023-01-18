@@ -2,15 +2,32 @@
 In this exploratory data analysis, we are going to analyse data of accidents happened in various cities of US.
 
 I got this dataset from kaggle. Kaggle is site where you can get real world datasets for analysis., which will be useful for modifications in that field.
-## Insights
-1. The top 5 states by accidents include populous ones like Los Angeles, Houston, and Florida.
-2. Less than 5% (~ 4.35%) of cities have more than 1000 accidents in the period between February 2016 and December 2020.
-3. New York is a populous city that has had less than 7500 accidents in the accounting period.
-4. Over 1200 cities have had just one accident in 4yeaars- needs further investigation.
-5. The majority of them have witnessed between 10–100 accidents during the period.
-6. Accidents by cities follow an exponentially decreasing distribution.
-7. The hypothesis that weekdays see more accidents during morning and evening rush hours is corroborated by the data. Weekends have the peak during the afternoon.
-8. The year-wise analysis seems to show missing data about certain months. So nothing much can be conclusively said about the overall increasing trend in the latter half of the year.
+## Insights:
+The project analyzed various parameters on accident occurrence and the following insights have been found upon drilling the above parameters:
+
+1. The top 5 states by accidents include populous ones like California, Florida, Texas, Oregon, Virginia.
+
+2. Less than 5% of cities have more than 1000 accidents in the period between February 2016 and December 2021.
+
+3. he majority of them have witnessed between 10–100 accidents during the period.
+
+4. Accidents by cities follow an exponentially decreasing distribution.
+
+5. The hypothesis that weekdays see more accidents during morning and evening rush hours is corroborated by the data.On working days of week most of the accidents happened from 7am to 9am, may be beacause of many people goes to office at this time.Also, number of accidents are more from 4pm to 6pm, may be because of it is time of returning from office.
+
+6. But on weekend days, distribution of number of accidents is pretty much different from working days of week. (12 pm - 6 pm).
+
+7. All the working week days had approx same number of accidents.
+
+8. Most of the accidents happened in Fair weather condition.
+
+9. Upto 80% humidity, number of accidents increased (approx) uniformly with increase in humiidity. Above 80% humidity there is no such relation between number of accidents & humidity.
+
+10. State CA & cities `Los Angeles' & 'Houston' had highest number of accidents.
+
+11. Eastern timezone in US had most number of accidents.
+
+12. Number of accidents increased from 2016 to 2021 & Year 2021 had most accidents.
 
 
 
