@@ -1,4 +1,7 @@
 # US-ACCIDENTS-EXPLORATORY-DATA-ANALYSIS
+In this exploratory data analysis, we are going to analyse data of accidents happened in various cities of US.
+
+I got this dataset from kaggle. Kaggle is site where you can get real world datasets for analysis., which will be useful for modifications in that field.
 ## Insights
 1. The top 5 states by accidents include populous ones like Los Angeles, Houston, and Florida.
 2. Less than 5% (~ 4.35%) of cities have more than 1000 accidents in the period between February 2016 and December 2020.
