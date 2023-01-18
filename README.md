@@ -27,7 +27,9 @@ The project analyzed various parameters on accident occurrence and the following
 
 11. Eastern timezone in US had most number of accidents.
 
-12. Number of accidents increased from 2016 to 2021 & Year 2021 had most accidents.
+12. Most of the accidents were with severity 2.
+
+13. Number of accidents increased from 2016 to 2021 & Year 2021 had most accidents.
 
 
 
