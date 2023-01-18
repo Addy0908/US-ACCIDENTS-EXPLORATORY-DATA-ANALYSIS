@@ -8,8 +8,7 @@
 6. Accidents by cities follow an exponentially decreasing distribution.
 7. The hypothesis that weekdays see more accidents during morning and evening rush hours is corroborated by the data. Weekends have the peak during the afternoon.
 8. The year-wise analysis seems to show missing data about certain months. So nothing much can be conclusively said about the overall increasing trend in the latter half of the year.
-9. The weather conditions seem to be “Fair”, “Clear” and “Mostly Cloudy” in most cases. The assumption of a 10mile visibility also doesn’t conclusively explain the accidents due to these factors.
-10. Most accidents happened away from the main crossing where there was inadequate or absence of traffic management infrastructures like traffic signaling systems and speed bumps.
+
 
 
 ## Acknowledgments
