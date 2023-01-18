@@ -9,7 +9,7 @@ The project analyzed various parameters on accident occurrence and the following
 
 2. Less than 5% of cities have more than 1000 accidents in the period between February 2016 and December 2021.
 
-3. he majority of them have witnessed between 10–100 accidents during the period.
+3. The majority of them have witnessed between 10–100 accidents during the period.
 
 4. Accidents by cities follow an exponentially decreasing distribution.
 
