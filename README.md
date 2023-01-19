@@ -1,6 +1,6 @@
 # US-ACCIDENTS-EXPLORATORY-DATA-ANALYSIS
 
-![Alt text](https://github.com/Addy0908/US-ACCIDENTS-EXPLORATORY-DATA-ANALYSIS/blob/main/agero-live-map-website-v2-1.gif)
+![Alt text](https://github.com/Addy0908/US-ACCIDENTS-EXPLORATORY-DATA-ANALYSIS/blob/main/USA-ACCIDENTS.gif)
 
 
 In this exploratory data analysis, we are going to analyse data of accidents happened in various cities of US.
