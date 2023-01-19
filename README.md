@@ -1,5 +1,10 @@
 # US-ACCIDENTS-EXPLORATORY-DATA-ANALYSIS
+
+![Alt text](https://github.com/Addy0908/US-ACCIDENTS-EXPLORATORY-DATA-ANALYSIS/blob/main/agero-live-map-website-v2-1.gif)
+
+
 In this exploratory data analysis, we are going to analyse data of accidents happened in various cities of US.
+
 
 I got this dataset from kaggle. Kaggle is site where you can get real world datasets for analysis., which will be useful for modifications in that field.
 ## Insights:
